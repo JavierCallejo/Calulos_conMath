@@ -3,11 +3,11 @@ public class Calculos_conMath {
 
 	public static void main(String[] args) {
 		
-		int  base=5;
+		int  Base=5;
 		
-		 int resultados = Math.abs(base);
+		 int resultados = Math.abs(Base);
 		
-		System.out.println(resultados);
+		System.out.println(resultados+10);
 
 	}
 
